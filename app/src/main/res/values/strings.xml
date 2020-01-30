@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParentApp</string>
+    <string name="toolbar_title">Account</string>
+
+    <string name="urlPath">https://api.getAddress.io/find/</string>
+    <string name="API_Key">ycn4sRL_s0mPC-cb04NNwg22959</string>
+</resources>

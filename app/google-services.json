@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "589732251760",
+    "firebase_url": "https://sophia-7882d.firebaseio.com",
+    "project_id": "sophia-7882d",
+    "storage_bucket": "sophia-7882d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589732251760:android:312b33c6e0028623fd4cb5",
+        "android_client_info": {
+          "package_name": "com.gayathriarumugam.parentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589732251760-e7ksmr6q35usdjuvcj7mk5pg0qvv3i4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyhQU7QQkMvQ2C09n23IP-ly8j3WpvlnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589732251760-e7ksmr6q35usdjuvcj7mk5pg0qvv3i4v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589732251760-h9mhpl8feg9nke1ngkg05nde3v025qn0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gayathriarumugam.TutorApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

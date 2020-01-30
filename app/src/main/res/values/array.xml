@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //MARK:- Data to populate account RecyclerView with
+    <array name="accountRows">
+        <item> My Profile </item>
+        <item> Edit Availability </item>
+        <item> My Payment </item>
+        <item> Account Statement </item>
+        <item> Refer and Earn </item>
+        <item> About Sophia" </item>
+        <item> Share App </item>
+        <item> Logout </item>
+    </array>
+</resources>
